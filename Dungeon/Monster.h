@@ -10,6 +10,7 @@ class Monster : public Creature
 		enum Type
 		{
 			Dragon,
+			Snake,
 			Orc,
 			Skeleton,
 			Zombie,

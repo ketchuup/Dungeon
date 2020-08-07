@@ -17,6 +17,7 @@ Monster::MonsterData Monster::monsterData[Type::Quantity] =
 {
 	// Name,		Health,	Damage,	Gold
 	{ "Dragon",		20,		5,		100 },
+	{ "Snake",		3,		5,		30 },
 	{ "Orc",		8,		4,		50 },
 	{ "Skeleton",	5,		3,		25 },
 	{ "Zombie",		4,		2,		20 },
